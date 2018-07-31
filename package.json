@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Gunasekar-K/testingapp/issues"
   },
-  "homepage": "https://github.com/Gunasekar-K/testingapp#readme"
+  "homepage": "https://github.com/Gunasekar-K/testingapp#readme",
+  "dependencies": {
+    "express": "^4.0.0"
+  }
 }
